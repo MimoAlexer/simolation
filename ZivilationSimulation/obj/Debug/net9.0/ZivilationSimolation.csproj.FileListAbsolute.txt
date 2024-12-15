@@ -1,0 +1,14 @@
+/home/mimoalexer/RiderProjects/ZivilationSimolation/bin/Debug/net9.0/ZivilationSimolation
+/home/mimoalexer/RiderProjects/ZivilationSimolation/bin/Debug/net9.0/ZivilationSimolation.deps.json
+/home/mimoalexer/RiderProjects/ZivilationSimolation/bin/Debug/net9.0/ZivilationSimolation.runtimeconfig.json
+/home/mimoalexer/RiderProjects/ZivilationSimolation/bin/Debug/net9.0/ZivilationSimolation.dll
+/home/mimoalexer/RiderProjects/ZivilationSimolation/bin/Debug/net9.0/ZivilationSimolation.pdb
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.AssemblyInfoInputs.cache
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.AssemblyInfo.cs
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.csproj.CoreCompileInputs.cache
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.dll
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/refint/ZivilationSimolation.dll
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.pdb
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ZivilationSimolation.genruntimeconfig.cache
+/home/mimoalexer/RiderProjects/ZivilationSimolation/obj/Debug/net9.0/ref/ZivilationSimolation.dll
